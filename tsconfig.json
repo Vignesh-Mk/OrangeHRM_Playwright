@@ -1,0 +1,17 @@
+{
+  "compilerOptions": 
+  {
+    "target": "esnext",
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "types": ["node", "@playwright/test"],
+    "strict": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+  },
+  "include": 
+  [
+    "**/*.ts"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "orangehrm_playwright",
+  "version": "1.0.0",
+  "description": "Playwright Typescript Test Framework for OrangeHRM",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vignesh-Mk/OrangeHRM_Playwright.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Vignesh-Mk/OrangeHRM_Playwright/issues"
+  },
+  "homepage": "https://github.com/Vignesh-Mk/OrangeHRM_Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "@types/node": "^26.6.5",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.8"
+  }
+}
